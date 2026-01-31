@@ -82,7 +82,7 @@ Outil en ligne de commande pour stocker de manière sécurisée des mots de pass
 ### Installation
 1. Cloner le dépôt :
 ```bash
-git clone <url-du-depot>
+git clone https://github.com/Roland-Ung/Projet_Gestionnaire_mots_de_passe.git
 cd Projet_Gestionnaire_mots_de_passe
 ```
 
